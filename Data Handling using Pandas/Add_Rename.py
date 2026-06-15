@@ -1,4 +1,4 @@
-# Add , Rename and Delete a column
+# Add, Rename and Delete a column
 import pandas as pd
 s = pd.Series([10,15,20,25])
 df = pd.DataFrame(s)
