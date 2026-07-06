@@ -1,5 +1,5 @@
 import pandas as pd
-dict1 = {'Name':['sachin','Kohli','Hardik'],'Age':[50,34,29]}
+dict1 = {'Name':['Sachin','Kohli','Hardik'],'Age':[50,34,29]}
 df1 = pd.DataFrame(dict1)
 dict2 ={'Name':['Rohit','Bumrah','Jadeja'],'Age':[38,34,35]}
 df2 = pd.DataFrame(dict2)
