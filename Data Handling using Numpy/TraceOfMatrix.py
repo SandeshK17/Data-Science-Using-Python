@@ -1,4 +1,4 @@
-# Trace of a given matrix is adding the diagonal elements of the matrix
+#  Trace of a given matrix is adding the diagonal elements of the matrix
 import numpy as np
 n = np.array([[1,2,3],[4,5,6],[7,8,9]])
 print("Given Matrix is : \n",n)
